@@ -1,7 +1,7 @@
 # SQLMap-FluX sqlmap二开bypass版
 
 旨在增强其对现代 WAF（Web 应用防火墙）和 IPS（入侵防御系统）的规避能力。
-
+                                          by FhoeniX42S
 ---
 
 ## 第一阶段：静态指纹"大清洗"
